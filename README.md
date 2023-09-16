@@ -27,8 +27,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TechyMT.TechyMT&"  />
+  <img src="https://profile-counter.glitch.me/TechyMT/count.svg?"  />
 </div>
 
 ###
