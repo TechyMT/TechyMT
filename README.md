@@ -4,13 +4,12 @@
 </p>
 
 <h1 align="center">I am Mustafa</h1>
-<p align="center">
-[Check out my portfolio website](https://mustafatrunkwala.netlify.app)
-</p>
 
 ###
-
+<div align ="center">
 <h3 align="center">Third Year Student at Pune Institute of Computer Technology.</h3>
+<a href="https://mustafatrunkwala.netlify.app">Portfolio Website</a>
+</div>
 
 ###
 
