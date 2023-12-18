@@ -5,9 +5,7 @@
 
 <h1 align="center">I am Mustafa</h1>
 <p align="center">
-<a href="https://mustafatrunkwala.netlfiy.app" >
-<h3>Check my portfolio website</h3>
-</a>
+[Check out my portfolio website](https://mustafatrunkwala.netlify.app)
 </p>
 
 ###
