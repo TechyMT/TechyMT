@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">Hello! I'm a third-year undergraduate student pursuing a degree in computer engineering at the prestigious Pune Institute of Computer Technology. I'm passionate about technology and have embarked on a journey to become a well-rounded professional in the field. As a full-stack web developer, I enjoy crafting dynamic and user-friendly web applications using popular stacks like MERN and incorporating modern design principles with tools like Tailwind CSS.<br><br>- 🔭 I’m working as a full-stack web developer.<br>- 📚 I'm currently learning cloud computing.<br>- ⚡ In my free time I play sports and listen to music.</p>
+<p align="left">Hello! I'm a final-year undergraduate student pursuing a degree in computer engineering at the prestigious Pune Institute of Computer Technology. I'm passionate about technology and have embarked on a journey to become a well-rounded professional in the field. As a full-stack web developer, I enjoy crafting dynamic and user-friendly web applications using popular stacks like MERN and incorporating modern design principles with tools like Tailwind CSS.<br><br>- 🔭 I’m working as a full-stack web developer.<br>- 📚 I'm currently learning cloud computing.<br>- ⚡ In my free time I play sports and listen to music.</p>
 
 ###
 
