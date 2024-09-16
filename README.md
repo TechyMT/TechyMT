@@ -7,7 +7,7 @@
 
 ###
 <div align ="center">
-<h3 align="center">Third Year Student at Pune Institute of Computer Technology.</h3>
+<h3 align="center">Student at Pune Institute of Computer Technology.</h3>
 <a href="https://mustafatrunkwala.netlify.app">Portfolio Website</a>
 </div>
 
