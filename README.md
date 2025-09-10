@@ -162,6 +162,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechyMT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+
+[![TechyMT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechyMT&theme=dracula)](https://mustafatrunkwala.netlify.app)
 
 [![An image of @techymt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techymt)](https://holopin.io/@techymt)
 
