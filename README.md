@@ -34,7 +34,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/TechyMT/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=TechyMT&style=flat-square&color=blue" alt="Profile Visits"/>
 </div>
 
 ###
