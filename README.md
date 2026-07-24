@@ -43,7 +43,16 @@
 
 ###
 
-<p align="left">Hello! Currently working at <a href="https://github.com/atlanhq">@atlanhq</a> as SWE-II. Completed my undergraduate degree in computer engineering at the prestigious Pune Institute of Computer Technology. I'm passionate about technology and have embarked on a journey to become a well-rounded professional in the field. As a full-stack web developer, I enjoy crafting dynamic and user-friendly web applications using popular stacks like MERN and incorporating modern design principles with tools like Tailwind CSS.<br><br>- 🔭 I’m working as a full-stack web developer.<br>- 📚 I'm currently learning cloud computing.<br>- ⚡ In my free time I play sports and listen to music.</p>
+<p align="left">
+Hey! I'm Mustafa — a software engineer at <a href="https://github.com/atlanhq">@atlanhq</a>, where I work on the App Runtime team building the platform that keeps data connectors and apps running (and occasionally explaining to a workflow why it shouldn't eat 5&nbsp;GB of memory).
+<br><br>
+Computer engineering grad from Pune Institute of Computer Technology. I started out full-stack (MERN, Tailwind, the works) and drifted toward the backend — distributed systems, workflows, and the fine art of debugging things at 2 AM scale.
+<br><br>
+- 🔭 Currently: building app runtime infrastructure at Atlan<br>
+- 📚 Digging into: the internals of Temporal, KEDA, and VPA — durable execution, event-driven autoscaling, and teaching pods to right-size themselves<br>
+- ⚡ Off the clock: sports, music, and pretending my side projects will ship
+</p>
+
 
 ###
 
@@ -142,16 +151,6 @@
   <img src="https://streak-stats.demolab.com?user=TechyMT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechyMT&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&rank_icon=github" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechyMT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 
 [![TechyMT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechyMT&theme=dracula)](https://mustafatrunkwala.netlify.app)
